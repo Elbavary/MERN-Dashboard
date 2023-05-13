@@ -1,4 +1,4 @@
 # MERN-Dashboard
-MERN Dashboard using material ui </br>
-#Live Demo </br>
+MERN Dashboard using Material UI </br>
+Live Demo </br>
 https://dashboard-frontend-zfd7.onrender.com/
